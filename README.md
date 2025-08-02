@@ -1,0 +1,2 @@
+# Algoritm
+smart solutions
