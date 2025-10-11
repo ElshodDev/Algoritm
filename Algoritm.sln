@@ -4,8 +4,6 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritm", "Algoritm.csproj", "{509E9D1E-4E37-C507-921D-C3906AA5CDFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deletePunctuationMarksText", "deletePunctuationMarksText\deletePunctuationMarksText.csproj", "{269433B2-16F6-2E0B-E5BF-79F73FD723D1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,15 +14,10 @@ Global
 		{509E9D1E-4E37-C507-921D-C3906AA5CDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{509E9D1E-4E37-C507-921D-C3906AA5CDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{509E9D1E-4E37-C507-921D-C3906AA5CDFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{269433B2-16F6-2E0B-E5BF-79F73FD723D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{269433B2-16F6-2E0B-E5BF-79F73FD723D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{269433B2-16F6-2E0B-E5BF-79F73FD723D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{269433B2-16F6-2E0B-E5BF-79F73FD723D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D6F5690A-3620-49D2-8821-6F9D0A159669}
 	EndGlobalSection
 EndGlobal
