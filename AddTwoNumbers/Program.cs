@@ -56,9 +56,7 @@ public class Program
         {
             Console.Write(result.val);
             if (result.next != null) Console.Write(" -> ");
-#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
 			result = result.next;
-#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
 		}
         Console.WriteLine();
     }
